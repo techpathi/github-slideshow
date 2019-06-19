@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: slide-2
+title: "Welcome to our third slide!"
 ---
-Your text
-Use the left arrow to go back!
+
+Pull request is crazy
